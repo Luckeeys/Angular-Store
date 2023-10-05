@@ -18,7 +18,6 @@ A loja ainda está em processo inicial, possui apenas a homepage.
 
 * [Linkedin](https://www.linkedin.com/in/lucas-cipriano-3801b6172/)
 * [E-mail](mailto:lucas.cipra@gmail.com)
-* [WhatsApp](https://wa.me/+5511988732277)
 
 ![Alt text](./src/assets/mdImages/LucasOctocat.png)
 
