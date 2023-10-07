@@ -8,9 +8,14 @@ Para desenvolvimento do blog foi utilizado a versão [14.1.2](https://v14.angula
 
 A loja ainda está em processo inicial, possui apenas a homepage.
 
+### Layout referencia
+
+![Alt text](./src/assets/mdImages/PSN.png)
+
 ### Homepage do blog
 
 ![Alt text](./src/assets/mdImages/homepage.png)
+![Alt text](./src/assets/mdImages/homepage2.png)
 
 ## Projeto realizado por Lucas Cipriano
 
