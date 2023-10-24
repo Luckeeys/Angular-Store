@@ -2,9 +2,11 @@
     width: 90%;
     margin: auto;
     padding: 50px;
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 
     justify-content: space-around;
     align-items: baseline;
     flex-wrap: wrap;
+    justify-items: center;
 }
